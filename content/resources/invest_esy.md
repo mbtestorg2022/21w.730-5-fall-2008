@@ -7,6 +7,7 @@ description: "Instructions for an investigative essay assignment\u2014 an essay 
   \ on the subject you have chosen to write about."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-5-writing-on-contemporary-issues-culture-shock-writing-editing-and-publishing-in-cyberspace-fall-2008/2b376bc34f8622395b9a03f982c14740_invest_esy.pdf
 file_type: application/pdf
+parent_uid: df3ec38e-28ad-ae63-32ac-cad1b2e140cd
 resourcetype: Document
 title: The Investigative Essay
 uid: 2b376bc3-4f86-2239-5b9a-03f982c14740
